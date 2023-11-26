@@ -114,13 +114,3 @@
 ### ●delete staff
 <img src="pickup_screenshot/12.png">
 
-### ●インストール方法：Install
-このアプリは、ブラウザでアクセスできます。
-
-以下の URL にアクセスします。
-https://pickupproject.herokuapp.com/
-
-アプリケーションがブラウザで開きます。
-
-注意事項
-インターネット接続が必要です。
